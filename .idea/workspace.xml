@@ -29,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/#1-postCreate",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/hong-yeojin/test800",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,11 +47,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699081352548</updated>
-      <workItem from="1699081353589" duration="732000" />
+      <workItem from="1699081353589" duration="1118000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
